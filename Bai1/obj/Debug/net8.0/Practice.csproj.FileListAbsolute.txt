@@ -1,0 +1,14 @@
+C:\IT008\BTH1_Tạ Ngọc Ân_23520030\Practice\Practice\bin\Debug\net8.0\Practice.exe
+C:\IT008\BTH1_Tạ Ngọc Ân_23520030\Practice\Practice\bin\Debug\net8.0\Practice.deps.json
+C:\IT008\BTH1_Tạ Ngọc Ân_23520030\Practice\Practice\bin\Debug\net8.0\Practice.runtimeconfig.json
+C:\IT008\BTH1_Tạ Ngọc Ân_23520030\Practice\Practice\bin\Debug\net8.0\Practice.dll
+C:\IT008\BTH1_Tạ Ngọc Ân_23520030\Practice\Practice\bin\Debug\net8.0\Practice.pdb
+C:\IT008\BTH1_Tạ Ngọc Ân_23520030\Practice\Practice\obj\Debug\net8.0\Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\IT008\BTH1_Tạ Ngọc Ân_23520030\Practice\Practice\obj\Debug\net8.0\Practice.AssemblyInfoInputs.cache
+C:\IT008\BTH1_Tạ Ngọc Ân_23520030\Practice\Practice\obj\Debug\net8.0\Practice.AssemblyInfo.cs
+C:\IT008\BTH1_Tạ Ngọc Ân_23520030\Practice\Practice\obj\Debug\net8.0\Practice.csproj.CoreCompileInputs.cache
+C:\IT008\BTH1_Tạ Ngọc Ân_23520030\Practice\Practice\obj\Debug\net8.0\Practice.dll
+C:\IT008\BTH1_Tạ Ngọc Ân_23520030\Practice\Practice\obj\Debug\net8.0\refint\Practice.dll
+C:\IT008\BTH1_Tạ Ngọc Ân_23520030\Practice\Practice\obj\Debug\net8.0\Practice.pdb
+C:\IT008\BTH1_Tạ Ngọc Ân_23520030\Practice\Practice\obj\Debug\net8.0\Practice.genruntimeconfig.cache
+C:\IT008\BTH1_Tạ Ngọc Ân_23520030\Practice\Practice\obj\Debug\net8.0\ref\Practice.dll

@@ -1,0 +1,14 @@
+C:\IT008\BTH1_Tạ Ngọc Ân_23520030\Practice\Bai5\bin\Debug\net8.0\Bai5.exe
+C:\IT008\BTH1_Tạ Ngọc Ân_23520030\Practice\Bai5\bin\Debug\net8.0\Bai5.deps.json
+C:\IT008\BTH1_Tạ Ngọc Ân_23520030\Practice\Bai5\bin\Debug\net8.0\Bai5.runtimeconfig.json
+C:\IT008\BTH1_Tạ Ngọc Ân_23520030\Practice\Bai5\bin\Debug\net8.0\Bai5.dll
+C:\IT008\BTH1_Tạ Ngọc Ân_23520030\Practice\Bai5\bin\Debug\net8.0\Bai5.pdb
+C:\IT008\BTH1_Tạ Ngọc Ân_23520030\Practice\Bai5\obj\Debug\net8.0\Bai5.GeneratedMSBuildEditorConfig.editorconfig
+C:\IT008\BTH1_Tạ Ngọc Ân_23520030\Practice\Bai5\obj\Debug\net8.0\Bai5.AssemblyInfoInputs.cache
+C:\IT008\BTH1_Tạ Ngọc Ân_23520030\Practice\Bai5\obj\Debug\net8.0\Bai5.AssemblyInfo.cs
+C:\IT008\BTH1_Tạ Ngọc Ân_23520030\Practice\Bai5\obj\Debug\net8.0\Bai5.csproj.CoreCompileInputs.cache
+C:\IT008\BTH1_Tạ Ngọc Ân_23520030\Practice\Bai5\obj\Debug\net8.0\Bai5.dll
+C:\IT008\BTH1_Tạ Ngọc Ân_23520030\Practice\Bai5\obj\Debug\net8.0\refint\Bai5.dll
+C:\IT008\BTH1_Tạ Ngọc Ân_23520030\Practice\Bai5\obj\Debug\net8.0\Bai5.pdb
+C:\IT008\BTH1_Tạ Ngọc Ân_23520030\Practice\Bai5\obj\Debug\net8.0\Bai5.genruntimeconfig.cache
+C:\IT008\BTH1_Tạ Ngọc Ân_23520030\Practice\Bai5\obj\Debug\net8.0\ref\Bai5.dll

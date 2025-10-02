@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\IT008\\BTH1_T\u1EA1 Ng\u1ECDc \u00C2n_23520030\\BTTH Tu\u1EA7n 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8A62C2-EADC-45B8-8E95-8C7CD057BCEC}|Practice\\Bai1.csproj|C:\\IT008\\BTH1_T\u1EA1 Ng\u1ECDc \u00C2n_23520030\\BTTH Tu\u1EA7n 1\\practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B8A62C2-EADC-45B8-8E95-8C7CD057BCEC}|Practice\\Bai1.csproj|solutionrelative:practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8A62C2-EADC-45B8-8E95-8C7CD057BCEC}|Practice\\Practice.csproj|C:\\IT008\\BTH1_T\u1EA1 Ng\u1ECDc \u00C2n_23520030\\BTTH Tu\u1EA7n 1\\practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B8A62C2-EADC-45B8-8E95-8C7CD057BCEC}|Practice\\Practice.csproj|solutionrelative:practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325732BD-C477-47F6-A7BA-ED2BFE8C47EA}|Bai5\\Bai5.csproj|c:\\it008\\bth1_t\u1EA1 ng\u1ECDc \u00E2n_23520030\\btth tu\u1EA7n 1\\bai5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325732BD-C477-47F6-A7BA-ED2BFE8C47EA}|Bai5\\Bai5.csproj|solutionrelative:bai5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1071EE69-3F8F-48B3-8756-BA9AF530BC7E}|Bai4\\Bai4.csproj|C:\\IT008\\BTH1_T\u1EA1 Ng\u1ECDc \u00C2n_23520030\\BTTH Tu\u1EA7n 1\\bai4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1071EE69-3F8F-48B3-8756-BA9AF530BC7E}|Bai4\\Bai4.csproj|solutionrelative:bai4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88B5A945-7EFF-44F6-BDD5-336AD8AA3101}|Bai3\\Bai3.csproj|C:\\IT008\\BTH1_T\u1EA1 Ng\u1ECDc \u00C2n_23520030\\BTTH Tu\u1EA7n 1\\bai3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88B5A945-7EFF-44F6-BDD5-336AD8AA3101}|Bai3\\Bai3.csproj|solutionrelative:bai3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A6D2AA2-AF8E-4B92-90BB-512B7F2BB96F}|Bai2\\Bai2.csproj|C:\\IT008\\BTH1_T\u1EA1 Ng\u1ECDc \u00C2n_23520030\\BTTH Tu\u1EA7n 1\\bai2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A6D2AA2-AF8E-4B92-90BB-512B7F2BB96F}|Bai2\\Bai2.csproj|solutionrelative:bai2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D76839-DA09-4D1D-8BE5-31BDE1EC5E28}|Bai6\\Bai6.csproj|C:\\IT008\\BTH1_T\u1EA1 Ng\u1ECDc \u00C2n_23520030\\BTTH Tu\u1EA7n 1\\bai6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24D76839-DA09-4D1D-8BE5-31BDE1EC5E28}|Bai6\\Bai6.csproj|solutionrelative:bai6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 453,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\IT008\\BTH1_T\u1EA1 Ng\u1ECDc \u00C2n_23520030\\BTTH Tu\u1EA7n 1\\Practice\\Program.cs",
+              "RelativeDocumentMoniker": "Practice\\Program.cs",
+              "ToolTip": "C:\\IT008\\BTH1_T\u1EA1 Ng\u1ECDc \u00C2n_23520030\\BTTH Tu\u1EA7n 1\\Practice\\Program.cs",
+              "RelativeToolTip": "Practice\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T14:27:54.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\IT008\\BTH1_T\u1EA1 Ng\u1ECDc \u00C2n_23520030\\BTTH Tu\u1EA7n 1\\Bai6\\Program.cs",
+              "RelativeDocumentMoniker": "Bai6\\Program.cs",
+              "ToolTip": "C:\\IT008\\BTH1_T\u1EA1 Ng\u1ECDc \u00C2n_23520030\\BTTH Tu\u1EA7n 1\\Bai6\\Program.cs",
+              "RelativeToolTip": "Bai6\\Program.cs",
+              "ViewState": "AQIAALcAAAAAAAAAAAAkwL4AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T14:26:14.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\IT008\\BTH1_T\u1EA1 Ng\u1ECDc \u00C2n_23520030\\BTTH Tu\u1EA7n 1\\Bai5\\Program.cs",
+              "RelativeDocumentMoniker": "Bai5\\Program.cs",
+              "ToolTip": "C:\\IT008\\BTH1_T\u1EA1 Ng\u1ECDc \u00C2n_23520030\\BTTH Tu\u1EA7n 1\\Bai5\\Program.cs",
+              "RelativeToolTip": "Bai5\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T02:29:43.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\IT008\\BTH1_T\u1EA1 Ng\u1ECDc \u00C2n_23520030\\BTTH Tu\u1EA7n 1\\Bai4\\Program.cs",
+              "RelativeDocumentMoniker": "Bai4\\Program.cs",
+              "ToolTip": "C:\\IT008\\BTH1_T\u1EA1 Ng\u1ECDc \u00C2n_23520030\\BTTH Tu\u1EA7n 1\\Bai4\\Program.cs",
+              "RelativeToolTip": "Bai4\\Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAA7wCQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T02:05:05.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\IT008\\BTH1_T\u1EA1 Ng\u1ECDc \u00C2n_23520030\\BTTH Tu\u1EA7n 1\\Bai3\\Program.cs",
+              "RelativeDocumentMoniker": "Bai3\\Program.cs",
+              "ToolTip": "C:\\IT008\\BTH1_T\u1EA1 Ng\u1ECDc \u00C2n_23520030\\BTTH Tu\u1EA7n 1\\Bai3\\Program.cs",
+              "RelativeToolTip": "Bai3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T01:51:54.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\IT008\\BTH1_T\u1EA1 Ng\u1ECDc \u00C2n_23520030\\BTTH Tu\u1EA7n 1\\Bai2\\Program.cs",
+              "RelativeDocumentMoniker": "Bai2\\Program.cs",
+              "ToolTip": "C:\\IT008\\BTH1_T\u1EA1 Ng\u1ECDc \u00C2n_23520030\\BTTH Tu\u1EA7n 1\\Bai2\\Program.cs",
+              "RelativeToolTip": "Bai2\\Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwBgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T01:43:13.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\IT008\\BTH1_T\u1EA1 Ng\u1ECDc \u00C2n_23520030\\BTTH Tu\u1EA7n 1\\Practice\\Program.cs",
+              "RelativeDocumentMoniker": "Practice\\Program.cs",
+              "ToolTip": "C:\\IT008\\BTH1_T\u1EA1 Ng\u1ECDc \u00C2n_23520030\\BTTH Tu\u1EA7n 1\\Practice\\Program.cs",
+              "RelativeToolTip": "Practice\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T01:02:24.11Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

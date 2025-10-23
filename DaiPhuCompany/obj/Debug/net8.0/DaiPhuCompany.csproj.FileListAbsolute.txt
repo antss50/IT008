@@ -1,0 +1,14 @@
+C:\IT008\BTH2_TạNgọcÂn_23520030\DaiPhuCompany\bin\Debug\net8.0\DaiPhuCompany.exe
+C:\IT008\BTH2_TạNgọcÂn_23520030\DaiPhuCompany\bin\Debug\net8.0\DaiPhuCompany.deps.json
+C:\IT008\BTH2_TạNgọcÂn_23520030\DaiPhuCompany\bin\Debug\net8.0\DaiPhuCompany.runtimeconfig.json
+C:\IT008\BTH2_TạNgọcÂn_23520030\DaiPhuCompany\bin\Debug\net8.0\DaiPhuCompany.dll
+C:\IT008\BTH2_TạNgọcÂn_23520030\DaiPhuCompany\bin\Debug\net8.0\DaiPhuCompany.pdb
+C:\IT008\BTH2_TạNgọcÂn_23520030\DaiPhuCompany\obj\Debug\net8.0\DaiPhuCompany.GeneratedMSBuildEditorConfig.editorconfig
+C:\IT008\BTH2_TạNgọcÂn_23520030\DaiPhuCompany\obj\Debug\net8.0\DaiPhuCompany.AssemblyInfoInputs.cache
+C:\IT008\BTH2_TạNgọcÂn_23520030\DaiPhuCompany\obj\Debug\net8.0\DaiPhuCompany.AssemblyInfo.cs
+C:\IT008\BTH2_TạNgọcÂn_23520030\DaiPhuCompany\obj\Debug\net8.0\DaiPhuCompany.csproj.CoreCompileInputs.cache
+C:\IT008\BTH2_TạNgọcÂn_23520030\DaiPhuCompany\obj\Debug\net8.0\DaiPhuCompany.dll
+C:\IT008\BTH2_TạNgọcÂn_23520030\DaiPhuCompany\obj\Debug\net8.0\refint\DaiPhuCompany.dll
+C:\IT008\BTH2_TạNgọcÂn_23520030\DaiPhuCompany\obj\Debug\net8.0\DaiPhuCompany.pdb
+C:\IT008\BTH2_TạNgọcÂn_23520030\DaiPhuCompany\obj\Debug\net8.0\DaiPhuCompany.genruntimeconfig.cache
+C:\IT008\BTH2_TạNgọcÂn_23520030\DaiPhuCompany\obj\Debug\net8.0\ref\DaiPhuCompany.dll

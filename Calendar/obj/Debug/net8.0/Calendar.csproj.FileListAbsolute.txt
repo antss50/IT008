@@ -1,0 +1,14 @@
+C:\IT008\BTH2_TạNgọcÂn_23520030\Calendar\bin\Debug\net8.0\Calendar.exe
+C:\IT008\BTH2_TạNgọcÂn_23520030\Calendar\bin\Debug\net8.0\Calendar.deps.json
+C:\IT008\BTH2_TạNgọcÂn_23520030\Calendar\bin\Debug\net8.0\Calendar.runtimeconfig.json
+C:\IT008\BTH2_TạNgọcÂn_23520030\Calendar\bin\Debug\net8.0\Calendar.dll
+C:\IT008\BTH2_TạNgọcÂn_23520030\Calendar\bin\Debug\net8.0\Calendar.pdb
+C:\IT008\BTH2_TạNgọcÂn_23520030\Calendar\obj\Debug\net8.0\Calendar.GeneratedMSBuildEditorConfig.editorconfig
+C:\IT008\BTH2_TạNgọcÂn_23520030\Calendar\obj\Debug\net8.0\Calendar.AssemblyInfoInputs.cache
+C:\IT008\BTH2_TạNgọcÂn_23520030\Calendar\obj\Debug\net8.0\Calendar.AssemblyInfo.cs
+C:\IT008\BTH2_TạNgọcÂn_23520030\Calendar\obj\Debug\net8.0\Calendar.csproj.CoreCompileInputs.cache
+C:\IT008\BTH2_TạNgọcÂn_23520030\Calendar\obj\Debug\net8.0\Calendar.dll
+C:\IT008\BTH2_TạNgọcÂn_23520030\Calendar\obj\Debug\net8.0\refint\Calendar.dll
+C:\IT008\BTH2_TạNgọcÂn_23520030\Calendar\obj\Debug\net8.0\Calendar.pdb
+C:\IT008\BTH2_TạNgọcÂn_23520030\Calendar\obj\Debug\net8.0\Calendar.genruntimeconfig.cache
+C:\IT008\BTH2_TạNgọcÂn_23520030\Calendar\obj\Debug\net8.0\ref\Calendar.dll

@@ -1,0 +1,14 @@
+C:\IT008\BTH2_TạNgọcÂn_23520030\DirCommandSimulator\bin\Debug\net8.0\DirCommandSimulator.exe
+C:\IT008\BTH2_TạNgọcÂn_23520030\DirCommandSimulator\bin\Debug\net8.0\DirCommandSimulator.deps.json
+C:\IT008\BTH2_TạNgọcÂn_23520030\DirCommandSimulator\bin\Debug\net8.0\DirCommandSimulator.runtimeconfig.json
+C:\IT008\BTH2_TạNgọcÂn_23520030\DirCommandSimulator\bin\Debug\net8.0\DirCommandSimulator.dll
+C:\IT008\BTH2_TạNgọcÂn_23520030\DirCommandSimulator\bin\Debug\net8.0\DirCommandSimulator.pdb
+C:\IT008\BTH2_TạNgọcÂn_23520030\DirCommandSimulator\obj\Debug\net8.0\DirCommandSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\IT008\BTH2_TạNgọcÂn_23520030\DirCommandSimulator\obj\Debug\net8.0\DirCommandSimulator.AssemblyInfoInputs.cache
+C:\IT008\BTH2_TạNgọcÂn_23520030\DirCommandSimulator\obj\Debug\net8.0\DirCommandSimulator.AssemblyInfo.cs
+C:\IT008\BTH2_TạNgọcÂn_23520030\DirCommandSimulator\obj\Debug\net8.0\DirCommandSimulator.csproj.CoreCompileInputs.cache
+C:\IT008\BTH2_TạNgọcÂn_23520030\DirCommandSimulator\obj\Debug\net8.0\DirCommandSimulator.dll
+C:\IT008\BTH2_TạNgọcÂn_23520030\DirCommandSimulator\obj\Debug\net8.0\refint\DirCommandSimulator.dll
+C:\IT008\BTH2_TạNgọcÂn_23520030\DirCommandSimulator\obj\Debug\net8.0\DirCommandSimulator.pdb
+C:\IT008\BTH2_TạNgọcÂn_23520030\DirCommandSimulator\obj\Debug\net8.0\DirCommandSimulator.genruntimeconfig.cache
+C:\IT008\BTH2_TạNgọcÂn_23520030\DirCommandSimulator\obj\Debug\net8.0\ref\DirCommandSimulator.dll

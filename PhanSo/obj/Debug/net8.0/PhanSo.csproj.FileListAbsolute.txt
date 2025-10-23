@@ -1,0 +1,14 @@
+C:\IT008\BTH2_TạNgọcÂn_23520030\PhanSo\bin\Debug\net8.0\PhanSo.exe
+C:\IT008\BTH2_TạNgọcÂn_23520030\PhanSo\bin\Debug\net8.0\PhanSo.deps.json
+C:\IT008\BTH2_TạNgọcÂn_23520030\PhanSo\bin\Debug\net8.0\PhanSo.runtimeconfig.json
+C:\IT008\BTH2_TạNgọcÂn_23520030\PhanSo\bin\Debug\net8.0\PhanSo.dll
+C:\IT008\BTH2_TạNgọcÂn_23520030\PhanSo\bin\Debug\net8.0\PhanSo.pdb
+C:\IT008\BTH2_TạNgọcÂn_23520030\PhanSo\obj\Debug\net8.0\PhanSo.GeneratedMSBuildEditorConfig.editorconfig
+C:\IT008\BTH2_TạNgọcÂn_23520030\PhanSo\obj\Debug\net8.0\PhanSo.AssemblyInfoInputs.cache
+C:\IT008\BTH2_TạNgọcÂn_23520030\PhanSo\obj\Debug\net8.0\PhanSo.AssemblyInfo.cs
+C:\IT008\BTH2_TạNgọcÂn_23520030\PhanSo\obj\Debug\net8.0\PhanSo.csproj.CoreCompileInputs.cache
+C:\IT008\BTH2_TạNgọcÂn_23520030\PhanSo\obj\Debug\net8.0\PhanSo.dll
+C:\IT008\BTH2_TạNgọcÂn_23520030\PhanSo\obj\Debug\net8.0\refint\PhanSo.dll
+C:\IT008\BTH2_TạNgọcÂn_23520030\PhanSo\obj\Debug\net8.0\PhanSo.pdb
+C:\IT008\BTH2_TạNgọcÂn_23520030\PhanSo\obj\Debug\net8.0\PhanSo.genruntimeconfig.cache
+C:\IT008\BTH2_TạNgọcÂn_23520030\PhanSo\obj\Debug\net8.0\ref\PhanSo.dll

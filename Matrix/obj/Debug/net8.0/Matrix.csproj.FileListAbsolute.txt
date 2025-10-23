@@ -1,0 +1,14 @@
+C:\IT008\BTH2_TạNgọcÂn_23520030\Matrix\bin\Debug\net8.0\Matrix.exe
+C:\IT008\BTH2_TạNgọcÂn_23520030\Matrix\bin\Debug\net8.0\Matrix.deps.json
+C:\IT008\BTH2_TạNgọcÂn_23520030\Matrix\bin\Debug\net8.0\Matrix.runtimeconfig.json
+C:\IT008\BTH2_TạNgọcÂn_23520030\Matrix\bin\Debug\net8.0\Matrix.dll
+C:\IT008\BTH2_TạNgọcÂn_23520030\Matrix\bin\Debug\net8.0\Matrix.pdb
+C:\IT008\BTH2_TạNgọcÂn_23520030\Matrix\obj\Debug\net8.0\Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\IT008\BTH2_TạNgọcÂn_23520030\Matrix\obj\Debug\net8.0\Matrix.AssemblyInfoInputs.cache
+C:\IT008\BTH2_TạNgọcÂn_23520030\Matrix\obj\Debug\net8.0\Matrix.AssemblyInfo.cs
+C:\IT008\BTH2_TạNgọcÂn_23520030\Matrix\obj\Debug\net8.0\Matrix.csproj.CoreCompileInputs.cache
+C:\IT008\BTH2_TạNgọcÂn_23520030\Matrix\obj\Debug\net8.0\Matrix.dll
+C:\IT008\BTH2_TạNgọcÂn_23520030\Matrix\obj\Debug\net8.0\refint\Matrix.dll
+C:\IT008\BTH2_TạNgọcÂn_23520030\Matrix\obj\Debug\net8.0\Matrix.pdb
+C:\IT008\BTH2_TạNgọcÂn_23520030\Matrix\obj\Debug\net8.0\Matrix.genruntimeconfig.cache
+C:\IT008\BTH2_TạNgọcÂn_23520030\Matrix\obj\Debug\net8.0\ref\Matrix.dll

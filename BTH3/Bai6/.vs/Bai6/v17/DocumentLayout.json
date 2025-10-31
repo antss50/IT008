@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\IT008\\BTH3_T\u1EA1Ng\u1ECDc\u00C2n_23520030\\Bai6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DCE347D-5BF1-4E8F-8E15-F6AB066C7F13}|Bai6\\Bai6.csproj|C:\\IT008\\BTH3_T\u1EA1Ng\u1ECDc\u00C2n_23520030\\Bai6\\bai6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DCE347D-5BF1-4E8F-8E15-F6AB066C7F13}|Bai6\\Bai6.csproj|solutionrelative:bai6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DCE347D-5BF1-4E8F-8E15-F6AB066C7F13}|Bai6\\Bai6.csproj|c:\\it008\\bth3_t\u1EA1ng\u1ECDc\u00E2n_23520030\\bai6\\bai6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1DCE347D-5BF1-4E8F-8E15-F6AB066C7F13}|Bai6\\Bai6.csproj|solutionrelative:bai6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 199,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\IT008\\BTH3_T\u1EA1Ng\u1ECDc\u00C2n_23520030\\Bai6\\Bai6\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai6\\Form1.cs",
+              "ToolTip": "C:\\IT008\\BTH3_T\u1EA1Ng\u1ECDc\u00C2n_23520030\\Bai6\\Bai6\\Form1.cs",
+              "RelativeToolTip": "Bai6\\Form1.cs",
+              "ViewState": "AQIAANUAAAAAAAAAAAA9wOUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T02:07:57.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\IT008\\BTH3_T\u1EA1Ng\u1ECDc\u00C2n_23520030\\Bai6\\Bai6\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai6\\Form1.cs",
+              "ToolTip": "C:\\IT008\\BTH3_T\u1EA1Ng\u1ECDc\u00C2n_23520030\\Bai6\\Bai6\\Form1.cs [Design]",
+              "RelativeToolTip": "Bai6\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T02:04:08.476Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

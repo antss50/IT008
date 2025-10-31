@@ -1,0 +1,17 @@
+D:\CodeMonHoc\IT008\IT008_new\BTTH IT008\BuoiTH3\Bai8\bin\Debug\net9.0-windows\Bai8.exe
+D:\CodeMonHoc\IT008\IT008_new\BTTH IT008\BuoiTH3\Bai8\bin\Debug\net9.0-windows\Bai8.deps.json
+D:\CodeMonHoc\IT008\IT008_new\BTTH IT008\BuoiTH3\Bai8\bin\Debug\net9.0-windows\Bai8.runtimeconfig.json
+D:\CodeMonHoc\IT008\IT008_new\BTTH IT008\BuoiTH3\Bai8\bin\Debug\net9.0-windows\Bai8.dll
+D:\CodeMonHoc\IT008\IT008_new\BTTH IT008\BuoiTH3\Bai8\bin\Debug\net9.0-windows\Bai8.pdb
+D:\CodeMonHoc\IT008\IT008_new\BTTH IT008\BuoiTH3\Bai8\obj\Debug\net9.0-windows\Bai8.Form1.resources
+D:\CodeMonHoc\IT008\IT008_new\BTTH IT008\BuoiTH3\Bai8\obj\Debug\net9.0-windows\Bai8.csproj.GenerateResource.cache
+D:\CodeMonHoc\IT008\IT008_new\BTTH IT008\BuoiTH3\Bai8\obj\Debug\net9.0-windows\Bai8.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeMonHoc\IT008\IT008_new\BTTH IT008\BuoiTH3\Bai8\obj\Debug\net9.0-windows\Bai8.AssemblyInfoInputs.cache
+D:\CodeMonHoc\IT008\IT008_new\BTTH IT008\BuoiTH3\Bai8\obj\Debug\net9.0-windows\Bai8.AssemblyInfo.cs
+D:\CodeMonHoc\IT008\IT008_new\BTTH IT008\BuoiTH3\Bai8\obj\Debug\net9.0-windows\Bai8.csproj.CoreCompileInputs.cache
+D:\CodeMonHoc\IT008\IT008_new\BTTH IT008\BuoiTH3\Bai8\obj\Debug\net9.0-windows\Bai8.sourcelink.json
+D:\CodeMonHoc\IT008\IT008_new\BTTH IT008\BuoiTH3\Bai8\obj\Debug\net9.0-windows\Bai8.dll
+D:\CodeMonHoc\IT008\IT008_new\BTTH IT008\BuoiTH3\Bai8\obj\Debug\net9.0-windows\refint\Bai8.dll
+D:\CodeMonHoc\IT008\IT008_new\BTTH IT008\BuoiTH3\Bai8\obj\Debug\net9.0-windows\Bai8.pdb
+D:\CodeMonHoc\IT008\IT008_new\BTTH IT008\BuoiTH3\Bai8\obj\Debug\net9.0-windows\Bai8.genruntimeconfig.cache
+D:\CodeMonHoc\IT008\IT008_new\BTTH IT008\BuoiTH3\Bai8\obj\Debug\net9.0-windows\ref\Bai8.dll
